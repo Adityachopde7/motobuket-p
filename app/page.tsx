@@ -1,5 +1,5 @@
 "use client";
-import Homepage from './components/Homepage';
+import Homepage from './Home/page';
 import Preloader from './components/Preloader';
 import React, { useState, useEffect } from 'react';
 import './globals.css'
